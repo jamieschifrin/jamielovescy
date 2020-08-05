@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jamielovescy/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/jamielovescy/static/js/main.eedba03d.chunk.js",
+    "main.js.map": "/jamielovescy/static/js/main.eedba03d.chunk.js.map",
+    "runtime-main.js": "/jamielovescy/static/js/runtime-main.42ebb21b.js",
+    "runtime-main.js.map": "/jamielovescy/static/js/runtime-main.42ebb21b.js.map",
+    "static/js/2.35a15de7.chunk.js": "/jamielovescy/static/js/2.35a15de7.chunk.js",
+    "static/js/2.35a15de7.chunk.js.map": "/jamielovescy/static/js/2.35a15de7.chunk.js.map",
+    "index.html": "/jamielovescy/index.html",
+    "precache-manifest.7b53ea18ddd10b84149ee84b9c9c235f.js": "/jamielovescy/precache-manifest.7b53ea18ddd10b84149ee84b9c9c235f.js",
+    "service-worker.js": "/jamielovescy/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/jamielovescy/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.35a15de7.chunk.js.LICENSE.txt": "/jamielovescy/static/js/2.35a15de7.chunk.js.LICENSE.txt",
+    "static/media/cy.jpg": "/jamielovescy/static/media/cy.a3fb495c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42ebb21b.js",
+    "static/js/2.35a15de7.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.eedba03d.chunk.js"
+  ]
+}
