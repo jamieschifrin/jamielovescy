@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d54cc49ae4429fe277ea12e5819a6d98",
+    "revision": "0b51a8d9e7cfb79c73f38fe684556375",
     "url": "/jamielovescy/index.html"
   },
   {
-    "revision": "5cf9c8e0e7bf75bebb88",
-    "url": "/jamielovescy/static/css/main.5ecd60fb.chunk.css"
+    "revision": "e9922b229a53df0fa61f",
+    "url": "/jamielovescy/static/css/main.9eb58e89.chunk.css"
   },
   {
     "revision": "7b15efa723b9b65a41e9",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jamielovescy/static/js/2.35a15de7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5cf9c8e0e7bf75bebb88",
-    "url": "/jamielovescy/static/js/main.eedba03d.chunk.js"
+    "revision": "e9922b229a53df0fa61f",
+    "url": "/jamielovescy/static/js/main.ec0c12b1.chunk.js"
   },
   {
     "revision": "4d179b0653f8ad88b85d",
